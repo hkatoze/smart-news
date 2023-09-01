@@ -18,5 +18,3 @@ Nous avons intégré une API de news gratuite pour garantir que vous ayez accès
 
 🎁 **Démo**  
 Pour explorer le monde des actualités technologiques à portée de main avec "Smart-News", découvrez une démonstration en direct [ici](lien-vers-la-démo-en-ligne).
-
-N'hésitez pas à remplacer "lien-vers-la-vidéo-de-présentation.mov" par le lien réel vers la vidéo de présentation de votre projet, "lien-vers-la-démo-en-ligne" par le lien vers votre démonstration en direct, et à ajouter toute autre information pertinente.
