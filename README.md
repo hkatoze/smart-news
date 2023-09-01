@@ -17,4 +17,4 @@
 Nous avons intégré une API de news gratuite pour garantir que vous ayez accès aux dernières informations technologiques du monde entier.
 
 🎁 **Démo**  
-Pour explorer le monde des actualités technologiques à portée de main avec "Smart-News", découvrez une démonstration en direct [ici](lien-vers-la-démo-en-ligne).
+Pour explorer le monde des actualités technologiques à portée de main avec "Smart-News" vous pouvez télécharger l'APK directement [ici](lien-de-l'apk)
